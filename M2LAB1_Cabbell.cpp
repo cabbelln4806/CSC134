@@ -47,6 +47,9 @@ profit = customer_price - cost;
 // Output
 cout << "Crate is: " << width << " x "<< length << " x "<< height << endl;
 cout << "Total volume is: " << volume << " cubic feet." << endl;
-// TODO output the cost, the customer price, and the profit
+// output the cost, the customer price, and the profit
+cout << "Cost to manufacture is $" << cost << endl;
+cout << "Customer is charged $" << customer_price << endl;
+cout << "Total profit is $" << profit << endl;
 
 } 
