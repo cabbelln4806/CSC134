@@ -1,26 +1,36 @@
-//CSC 134
-//M1HW1- Movie Talk
-//Nia Cabbell
-//8/28/2024
-
-
 #include <iostream>
+//CSC 134
+//M3LAB2
+//Nia Cabbell
+//9/23/2024
+
 using namespace std;
 
-int main() {
+int main()
+{
+    int num_grade;
 
-string movie;
-int year;
-double boxoffice;
-  
+    cout << "Please enter a number grade (0-100)" << endl;
+    cin >> num_grade;
 
-cout<< "The movie ";
-  cin >> movie;
-cout<< "was came out the year ";
-  cin >> year;
-cout<< "and the box office gross was ";
-  cin >> boxoffice;
-cout<< "There are two quotes from the movie I will be using are" << endl;
-cout<< " 1) You probably think this world is a dream come true... but you're wrong- cat" << endl;
-cout<< "2) How can you walk away from something and still come back to it?" << endl;
-    }
+    if (num_grade == 100) {
+            cout << "Congratulations on the A+ !" << endl;
+   }
+    else if (num_grade >= 90) {
+        cout << "You got an A" << endl;
+   }
+    else if (num_grade >= 80) {
+        cout << "You got a B" << endl;
+   }
+    else if (num_grade >= 70) {
+    cout << "You got a C" << endl;
+   }
+   else if (num_grade >= 60) {
+    cout << "You got a D" << endl;
+   }
+   else {
+    cout << "You got a F." <<endl;
+   }
+
+    return 0;
+}
