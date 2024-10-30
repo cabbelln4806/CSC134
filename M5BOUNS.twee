@@ -1,0 +1,67 @@
+:: StoryTitle
+Untitled Story
+
+
+:: StoryData
+{
+  "ifid": "165B855F-55E7-45C0-AD19-48AC38B593CF",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Back Door {"position":"1025,475","size":"100,100"}
+You sneak around back.
+
+[[It's Dark...]]
+
+
+:: Front Door {"position":"900,475","size":"100,100"}
+You go to the front door
+
+(text-colour:red)[It's locked.]
+
+[[Try Something else->Start]] 
+
+
+:: Go Home {"position":"525,375","size":"100,100"}
+Ah, home. Nice and relaxing.
+
+Was that your stomach grumbling?
+ 
+ What do you do?
+ 
+ [[Order Pizza]]
+ [[Order Burger]]
+ [[Go to Bed]]
+
+
+:: Go to Bed {"position":"400,600","size":"100,100"}
+
+
+
+:: It's Dark... {"position":"1025,600","size":"100,100"}
+It's a bunny with a knife.
+
+</style><img src= https://wallpapercave.com/wp/wp9490337.jpg> </div>
+
+
+
+:: Order Burger {"position":"600,600","size":"100,100"}
+
+
+
+:: Order Pizza {"position":"500,600","size":"100,100"}
+
+
+
+:: Start {"position":"900,350","size":"100,100"}
+It's Halloween, and you're at the spooky house down the street. 
+
+what do you do?
+
+[[Front Door]]
+[[Back Door]]
+[[Go Home]]
