@@ -1,0 +1,80 @@
+:: StoryTitle
+hallow
+
+
+:: StoryData
+{
+  "ifid": "F5A6E93F-BF52-4598-81E1-165B855F55E7",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start over",
+  "zoom": 1
+}
+
+
+:: Back Door {"position":"1200,150","size":"100,100"}
+
+
+
+:: First Voice {"position":"725,425","size":"100,100"}
+
+
+
+:: Front Door {"position":"900,300","size":"100,100"}
+When you enter through the front door the first thing you see is red glowing light. You hear 2 different whispers. The first one says "Come closer and touch the order". The second one says "RUN AWAY NOW WHILE YOU HAVE THE CHANCE!!!". The second one starts to slowly get louder. Do you listen to the first voice and touch the light? Do you listen to the second voice and run away? Or would you like to think for a second?
+
+</style><img src= https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/383f69e0-63b1-4a88-bf59-f149bbd8b5e3/dcrd0l6-c7b3487c-0fc6-412e-ab37-919594c9b68f.jpg/v1/fill/w_700,h_675,q_75,strp/alextendo_s_red_glowing_orb_by_alextendo_dcrd0l6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvMzgzZjY5ZTAtNjNiMS00YTg4LWJmNTktZjE0OWJiZDhiNWUzXC9kY3JkMGw2LWM3YjM0ODdjLTBmYzYtNDEyZS1hYjM3LTkxOTU5NGM5YjY4Zi5qcGciLCJ3aWR0aCI6Ijw9NzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TGm3zVH-w5_NX2J8a10paMvSpBs2QkL9RvfiAF7rFfk> </div>
+
+[[First Voice]]
+
+[[Second Voice]]
+
+[[Wait For a Second]]
+
+
+:: Go Home {"position":"450,100","size":"100,100"}
+You've do home and it's dark outside. You see something in the darkness it's a.......
+
+A KILLER BUNNY
+
+</style><img src= https://wallpapercave.com/wp/wp9490337.jpg> </div>
+
+YOU DIED 😔!!
+
+
+:: Go out with friend {"position":"450,0","size":"100,100"}
+Youve decide to go out with friend. You've made the right decison for now...
+
+</style><img src= https://c1.staticflickr.com/7/6194/6133402948_356a277801_b.jpg> </div>
+
+
+:: Run Away {"position":"625,0","size":"100,100"}
+You picked run away. After You run away you run into your friends do you continie on with the night or do yo want to go home. There is an other option would you like to start over?
+
+[[Go out with friend]]
+
+[[Go Home]]
+
+[[Start over]] 
+
+
+:: Second Voice {"position":"850,425","size":"100,100"}
+
+
+
+:: Start over {"position":"950,100","size":"100,100"}
+You are in front of an old house. This house used to belong to old man Smith. He passed away 20 years ago but, people say that old man smith haunts the house. You've been dare by your to enter the house. Do you enter through the front or back door or do you just run away?
+
+ </style><img src= https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/creepy-old-house-at-night-kailooma-x-thedol.jpg> </div>
+
+
+[[Front Door]]
+
+[[Back Door]]
+
+[[Run Away]]
+
+
+
+:: Wait For a Second {"position":"975,425","size":"100,100"}
+
